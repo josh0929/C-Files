@@ -1,17 +1,6 @@
 /*
 File Name:            deckmain.c
 Author:               Joshua Suarez
-Panther ID:           6041323
-Assignment:           Assignment 3
-
-Course Name/Number:   Programming III - COP-4338
-Instructor:           William Feild Jr.
-Due Date:             February 26th 2019
-
-    I hereby certify that this collective work is my own and
-    none of it is the work of any other person or entity.
-
-    ______________________________________ [Signature]
 
 =============================================================================
 
