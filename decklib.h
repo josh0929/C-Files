@@ -60,8 +60,8 @@ void printCard( int card );
                           1(A) - 2  - 3  - ... - 11(J) - 12(Q) - 13(K)
                      1♡   [ ]  [ ]  [ ]   ...    [ ]     [ ]     [ ]
                      2♢   [ ]  [ ]  [ ]   ...    [ ]     [ ]     [ ]
-                     3♧    [ ]  [ ]  [ ]  ...    [ ]     [ ]     [ ]
-                     4♤    [ ]  [ ]  [ ]  ...    [ ]     [ ]     [ ]
+                     3♧   [ ]  [ ]  [ ]   ...    [ ]     [ ]     [ ]
+                     4♤   [ ]  [ ]  [ ]   ...    [ ]     [ ]     [ ]
 
                 In conclusion, the array will consist of 4 rows and 13 columns
                 which will give us 52 cards, hence 4 * 13 = 52.Each location is
