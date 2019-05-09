@@ -12,7 +12,7 @@ Description:          Library containing neccessary functions to simulate a
 =============================================================================
 */
 
-#include <stdio.h>          //Library for standar input/output
+#include <stdio.h>          //Library for standard input/output
 #include <time.h>           //Library that allows for retreival of current time
 #include <stdlib.h>         //Imports rand() and srand() functions for random num
 #include <locale.h>
@@ -57,14 +57,14 @@ void printCard( int card );
                 represents the suit and the horizontal represents the
                 rank. The following is an example of what is described above:
 
-                          1(A) - 2  - 3  - ... - 11(J) - 12(Q) - 13(K)
+                          1(A)- 2  - 3  - ...  - 11(J) - 12(Q) - 13(K)
                      1♡   [ ]  [ ]  [ ]   ...    [ ]     [ ]     [ ]
                      2♢   [ ]  [ ]  [ ]   ...    [ ]     [ ]     [ ]
                      3♧   [ ]  [ ]  [ ]   ...    [ ]     [ ]     [ ]
                      4♤   [ ]  [ ]  [ ]   ...    [ ]     [ ]     [ ]
 
                 In conclusion, the array will consist of 4 rows and 13 columns
-                which will give us 52 cards, hence 4 * 13 = 52.Each location is
+                which will give us 52 cards, hence 4 * 13 = 52. Each location is
                 a combination of the row id, e.g. A or 1, and the corresponding
                 column, e.g. 2, which is position row[1]|col[2] and represents
                 card 2♡. Each card is represented by a unique number from
